@@ -1,0 +1,26 @@
+\select@language {japanese}
+\contentsline {chapter}{\numberline {第1章}序文}{3}
+\contentsline {chapter}{\numberline {第2章}ガストン・ド・パヴロフスキーと『四次元郷への旅』について}{5}
+\contentsline {section}{\numberline {2.1}ガストン・ド・パヴロフスキーの来歴}{5}
+\contentsline {section}{\numberline {2.2}『四次元郷への旅』の書誌情報とあらすじ}{8}
+\contentsline {subsection}{\numberline {2.2.1}書誌情報}{8}
+\contentsline {subsection}{\numberline {2.2.2}あらすじ}{8}
+\contentsline {section}{\numberline {2.3}先行研究}{10}
+\contentsline {chapter}{\numberline {第3章}出版史とジャンルの観点からみる『四次元郷への旅』}{21}
+\contentsline {section}{\numberline {3.1}出版史における『四次元郷への旅』}{21}
+\contentsline {section}{\numberline {3.2}ジャンルを逸脱する『四次元郷への旅』}{26}
+\contentsline {chapter}{\numberline {第4章}4次元とベルクソン}{29}
+\contentsline {section}{\numberline {4.1}4次元について}{29}
+\contentsline {subsection}{\numberline {4.1.1}フランスにおける4次元の大衆化}{29}
+\contentsline {subsection}{\numberline {4.1.2}ヒントンの超空間哲学とパヴロフスキー}{34}
+\contentsline {section}{\numberline {4.2}ベルクソンとパヴロフスキーの4次元}{37}
+\contentsline {chapter}{\numberline {第5章}物質とエネルギー}{42}
+\contentsline {section}{\numberline {5.1}物質について}{42}
+\contentsline {section}{\numberline {5.2}エネルギーについて}{48}
+\contentsline {section}{\numberline {5.3}観念的な偶然性}{53}
+\contentsline {section}{\numberline {5.4}文学と科学}{61}
+\contentsline {chapter}{\numberline {第6章}遺伝と4次元}{63}
+\contentsline {section}{\numberline {6.1}テツノミ}{63}
+\contentsline {section}{\numberline {6.2}フランスにおける進化論の導入とパヴロフスキー}{65}
+\contentsline {section}{\numberline {6.3}遺伝的類似}{76}
+\contentsline {chapter}{\numberline {第7章}結論}{81}
