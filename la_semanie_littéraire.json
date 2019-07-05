@@ -1,0 +1,14 @@
+[
+{"date":"13121908",
+"number":"1",
+"text":"On parlé depuis pasteurs années de la crise de la Librairie. Il paraît que le Théâtre et l'Automobile en sont cause. On ne s'intéresse plus aux oeuvres qu'il faut prendre la peine de lire à tête reposée, et l'on préfère les spectacles extérieurs qui nous sont fournis tout digérés par la scène ou par la route. ",
+"book":
+{
+1:{"author":"null","title":"Le livre des mille nuits et un nuit", "translater": "J.C. Mardrus", "volume":"tome. I"},
+2:{"author":"Tristan Bernard","title":"Secrets D'état","series":"Le monde illustré"},
+3:{"author":"E. Stoullig","title":"Annales du théatre et de la musique","publisher":"Ollendorf"}
+}
+},
+{
+}
+]
