@@ -1,10 +1,11 @@
 [
-{"date":"13121908",
+{"date":"19081213",
 "number":"1",
-"text":"On parlé depuis pasteurs années de la crise de la Librairie. Il paraît que le Théâtre et l'Automobile en sont cause. On ne s'intéresse plus aux oeuvres qu'il faut prendre la peine de lire à tête reposée, et l'on préfère les spectacles extérieurs qui nous sont fournis tout digérés par la scène ou par la route. ",
+"page":"2",
+"text":"On parlé depuis pasteurs années de la crise de la Librairie. Il paraît que le Théâtre et l'Automobile en sont cause. On ne s'intéresse plus aux oeuvres qu'il faut prendre la peine de lire à tête reposée, et l'on préfère les spectacles extérieurs qui nous sont fournis tout digérés par la scène ou par la route.(...) Les œuvres nouvelles n'étant presque toujours que des simples produits commerciaux, il suffisait de les lancer comme on lance une spécialité pharmaceutique, et les étiquettes elles-mêmes n'ont point fait défaut, alléchant les curiosités du public, annoçant que tel roman était pour l'usage externe et décorant prétentieusement certains litres d'eau sucrée du titre, hélas! peu justifié, de poison. (...) je sais tel français, résidant depuis de longues années dans des capitales voisines, qui se révoltent en voyant chque jour arriver, soi fisant de Paris, les ballots d'insanités qui se réclament de nos Lettres. Que se passe-t-il donc en France? Est ce là ce que nous produisons aujourd'hui? Ils se disposent à changer de nom et à cacher avec soin leur nationalité d'origine. (...) Chaque semaine, nous essairons, dans ce feuilleton, d'indiquer les œuvres très rares capables d'intéresser les lettrés; nous n'oublions point de signaler aussi tout ce qui peut donner au livre la valeur d'objet d'art qu'il peut avoir.",
 "book":
 {
-1:{"author":"null","title":"Le livre des mille nuits et un nuit", "translater": "J.C. Mardrus", "volume":"tome. I"},
+1:{"author":"null","title":"Le livre des mille nuits et un nuit","translater": "J.C. Mardrus","publisher":"Fasquelle","volume":"tome. I","note":"(...)publiée en livraisons chez Fasquelle. C'est là, à n'en point douter, une œuvre conçue en dehors de toute préoccupation commerciale, par l'une des rares maisons d'éditions qui, à notre époque de mercantillisme, semblent vouloir conserver intactes les belles traditions d'autrefois. (...) C'est un bouleversement complet de nos idées, une entière transdormation de notre vie, une révolution surnaturelle qui ne manque point de troubler profondément notre pensée et de remettre en question notre morale traditionnelle tout entière."},
 2:{"author":"Tristan Bernard","title":"Secrets D'état","series":"Le monde illustré"},
 3:{"author":"E. Stoullig","title":"Annales du théatre et de la musique","publisher":"Ollendorf"}
 }
