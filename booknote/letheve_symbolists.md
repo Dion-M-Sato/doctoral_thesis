@@ -1,0 +1,2 @@
+166
+Jusqu'en 1884, Verlaine, Mallarmé et Rimbaud restent des inconnus. Ceux qui citent leurs noms le font par dérision. Bien sûr, il faut excepter un petit nombre de jeunes gens qui les on lus dans quelque obscure : ceux-là sont prêts à les considérer comme des maîtres et à les imiter, s'il ne le font déjà. Mais leur voix est encore silencieuse et pour ceux qui prennent la température de l'opinion littéraire, ils n'existent pas encore.
