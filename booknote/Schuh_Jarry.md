@@ -25,3 +25,8 @@ Lethève, *Impressionnistes*, p. 179
 
 48  
 Le poème de Jarry côtoie une critique picturale de Léon-Paul Fargue, « Peinture (Chez Le Barc de Boutteville) », où l'on retrouve les noms de Bonnard, Maurice Denis, Ranson, Xavier Roussel, Paul Sérusier, ensuite Fabien Launay) sur l'exposition consacrée à Gauguin chez Durand-Ruel, et un compte rendu d'*Un Ennemi du Peuple* d'Ibsen au Th∑wâtre de l'Œuvre par un critique anonume qui commente surtout la /49/ conférence de Laurent Tailhade.
+
+49  
+Mais à ce canon[=la canon littéraire du mouvement symboliste] s'ajoute toutes les lectures que Jarry a pu faire  durant ses années de formation intellectuelle, auxquelles il donne le nom évocateur d'« Ontogénie », que l'on peut définir comme la gestation d'une *persona* littéraire. Il se positionne en définissant une communauté imaginaire à laquelle il s'affile, construisant la situation d'énonciation de son œuvre en cours: « Cette communauté spirituelle qui se joue de l'espace et du temps associe des noms dans une configuration dont la singularité ne fait qu'une avec la revendication esthétique de l'auteur. »
+«» est la citation. Dominique Maingueneau, *Le Contexte de l'œuvre littéraire. Énonciation, écrivain, société*, Dunod, 1993, p. 68.
+
