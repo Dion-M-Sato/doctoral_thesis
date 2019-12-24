@@ -30,3 +30,25 @@ Le poème de Jarry côtoie une critique picturale de Léon-Paul Fargue, « Peint
 Mais à ce canon[=la canon littéraire du mouvement symboliste] s'ajoute toutes les lectures que Jarry a pu faire  durant ses années de formation intellectuelle, auxquelles il donne le nom évocateur d'« Ontogénie », que l'on peut définir comme la gestation d'une *persona* littéraire. Il se positionne en définissant une communauté imaginaire à laquelle il s'affile, construisant la situation d'énonciation de son œuvre en cours: « Cette communauté spirituelle qui se joue de l'espace et du temps associe des noms dans une configuration dont la singularité ne fait qu'une avec la revendication esthétique de l'auteur. »
 «» est la citation. Dominique Maingueneau, *Le Contexte de l'œuvre littéraire. Énonciation, écrivain, société*, Dunod, 1993, p. 68.
 
+67  
+Cette absence est uniquement valable pour ce qu'Alain Vaillant nomme la « littérature-texte », qui se substitue au système de « littérature-discours » au XIX<sup>e</sup> siècle à la suite de l'effondrement des structures tratidtionneles de médiation de l'Ancien Régime ; à la fin du XIX<sup>e</sup> siècle, on peut considérer que les structures de la communication littéraire dépendent en grande partie de l'absence de l'auteur et de la médiatisation de son texte, qui doit passer par les mécanismes de la production industrialisée et les systèmes de diffusion des mass-media pour être lu.
+-> Alain Vaillant et Éric Térouanne, « Le roman au XIX<sup>e</sup> siècle ou la littérature-livre », *Revue d'histoire du XIX<sup>e</sup> siècle*, n<sup>sup</sup>19, «Aspects de la production culturelle au XIX<sup>e</sup> siècle : formes, rythmes, usages », 1992/2, p. 15-34.
+
+70  
+Afin de comprendre les principes de création de Jarry, il est nécessaire d'analyser les conditions de production et de réceptionde la littéraire dans cette communauté symboliste qu'il intègre au début des années 1890. Trois caractéristiques permettent de délimiter cet espace littérare : 
+Son *unité* : qulles sont les limites de la communauté en question? Comment y entre-t-on? Quelles conditions faut-il remplir pour que son discours soit validé dans ce cercle?
+Son *canon* : depuis où écrit-on? Quel est le contexte littéraire, quelles sont les références qui informent le discours de ces auteurs?
+Son *modèle herméneutique* : selon quelles modalités écrit-on? Quels rôles sont attribués à l'auteur, au texte, au lecteur dans le processus de la communication littéraire?
+
+71-72  
+C'est la génération qui se fait connaître au début des années 1890 qui fonde réellement le groupe symblosite et lui donne une existence institutionnelle par la création de revue et de maisons d'édition. Autrement dit, les modèles herméneutiques décrits ici peuvent convoquer des textes parus des décennies auparavant, du moment qu'ils sont interprétés de manière systématique par la communauté interprétative du symbolisme du début des années 1890 : l'espace littéraire ne fnoctionne pas selon une logique linéaire, et les sens attribués à des œuvres importent davantage que les œuvres elles-mêmes dans la construction de l'image d'un groupe. L'unité du groupe symbolistes décrite ici est donc rétrospective et controuvée : elle découle d'un système de communication littéraire qui se met en place, non pas aux alentours de 1886 et des divers manifestes qui  signeraient son apparition, mais au début des années 1890, lorsqu'une nouvelle génération d'écrivains parvient sur la scène littéraire et s'approprie les textes de ceux qu'elle se choisit comme aînés en les intreprétant, et que ces mêmes aînés commencent à publier leur /« souvenirs du symbolisme », pour reprendre un titre que l'on retrouve souvent.
+-> cf. Paul Aron, « Pour une description sociologique du symbolisme belge », *Diagraphe*, n<sup>o</sup>73, « Hommage au Mercure », mars 1995, p. 182.
+
+73  
+Devant cette crise des modèles d'appréhension des textes, les écrivains déplorent l'incompréhension du public, rêvant d'une relation directe, prophétique, entre eux et la foule. Alain Vailllant décrit cette crise comme le passage « littérature-discours » à une « littérature-texte », d'une communication fondée sur une relation directe entre l'auteur et le lecture à une communication biasée, indirecte, où la figure de l'autur s'efface.
+
+80  
+La vague d'écrit qui submerge la fin du XIX<sup>e</sup> siècle peut être considérée comme la conséquence nécessaire de l'émancipation ( ou de la marginalisation ) sociale des écrivains symbolistes. L'époque est en effet au commentaire : nombreux sont les opposants au symbolisme qui soulignent l'absence d'œuvres réelles par rapport à la masse de manifestes, d'écrits théoriques, de critiques littéraires.
+--> Selon Schuh, « Cette tendance est confirmée par les études statistiques, qui montrent que la part du commentaire dans les parutions connaît une hausse brutale de 1885 à 1891, avant de reculer. » Alain Vaillant, *La Crise de la littéraire*, p. 119.
+
+
