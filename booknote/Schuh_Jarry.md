@@ -51,4 +51,17 @@ Devant cette crise des modèles d'appréhension des textes, les écrivains dépl
 La vague d'écrit qui submerge la fin du XIX<sup>e</sup> siècle peut être considérée comme la conséquence nécessaire de l'émancipation ( ou de la marginalisation ) sociale des écrivains symbolistes. L'époque est en effet au commentaire : nombreux sont les opposants au symbolisme qui soulignent l'absence d'œuvres réelles par rapport à la masse de manifestes, d'écrits théoriques, de critiques littéraires.
 --> Selon Schuh, « Cette tendance est confirmée par les études statistiques, qui montrent que la part du commentaire dans les parutions connaît une hausse brutale de 1885 à 1891, avant de reculer. » Alain Vaillant, *La Crise de la littéraire*, p. 119.
 
+89  
+Le symbolisme tel que les critiques en parlent couramment correspond ainsi en grande partie, non pas à un mouvement réel, doté d'un programme, de maîtres, de disciples organisés, mais à ce groupement fictif d'œuvres dans un canon élaboré en 1884 puis recomposé au début des années 1890 à travers la relecture, par de nouvelles générations qui entrent dans le champ littéraire, des œuvres de ceux qu'elles considèrent comme des aînés &mdash;&mdash; tout comme la relecture du symbolisme par Tancrède de Visan au début années 1910 conduira à une nouvelle définition du mouvement à partir des théories bergsoniennes :
+--> Tancrède de Visan, « La philosophie de M. Bergson et la lyrisme contemporain », *L'Attitude du Lyrisme contemporain*, Mercure de France, 1911, p. 424-466.
+
+107  
+/Sur « l'œuvre » de Mallarmé  
+L'œuvre n'est ni confession, ni révélation ; elle n'est qu'une forme obéissant à sa propre structure, autorisant une autre forme de lecture, d'autres cohérences internes.
+--> cf. Bertrand Marchal, *La Religion de Mallarmé*
+
+108  
+Mallarmé met en scène la lecture &mdash;&mdash; comme étaient mise en scène les lectures de ce fameux théâtre du sens auquel les critiques ont donné abusivement le nom de « Livre », lectures qui obéissent au modèle herméneutique symboliste, une fonction de monstration.
+
+
 
