@@ -29,7 +29,7 @@
   },
   {"date":{"year":1909, "month":"1", "day":3},"nubmer":4,"page":2,
     "book":{1:{"author":"Colette Willy","title":"Les vrilles de la vigne", "publisher":"La vie parisienne", "year":1908,"note":"Ce Colette est le Colette"},
-    2:{"authro":"P.-N Roinard", "title":"Les miroirs", "Publisher":"Phalange","year":1908,"text":"La psychologie et la physique modernes nous apprennent que le monde n'est, par lui-même, ni sonore, ni coloré, ni résistant; ce sont nos sens qui créent la lumière, le son, la forme tels que nous les connaissons, et vouloir remontrer à l'unité de la matière, c'est abolir, du même coup, le merveilleux épanouissement de la nature tout entière. (...) A une époque de sabotage littéraire et d'inonscience absolue en matière d'art, il dénote une exceptionnelle probité qui peut être donnée en exemple aux notables commerçants de notre temps."},
+    2:{"author":"P.-N Roinard", "title":"Les miroirs", "Publisher":"Phalange","year":1908,"text":"La psychologie et la physique modernes nous apprennent que le monde n'est, par lui-même, ni sonore, ni coloré, ni résistant; ce sont nos sens qui créent la lumière, le son, la forme tels que nous les connaissons, et vouloir remontrer à l'unité de la matière, c'est abolir, du même coup, le merveilleux épanouissement de la nature tout entière. (...) A une époque de sabotage littéraire et d'inonscience absolue en matière d'art, il dénote une exceptionnelle probité qui peut être donnée en exemple aux notables commerçants de notre temps."},
     3:{"author":"Gaston Picard", "title":"Au clair du soleil, parade philosophio-poétique", "type":"manuscrit", "year":"1908"},
     4:{"author":"Gaston Derys","title":"Oruelle Tendresse","publisher":"L.Michaud", "type":"roman"}
     }

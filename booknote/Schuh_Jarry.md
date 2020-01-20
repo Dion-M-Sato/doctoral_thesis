@@ -63,5 +63,3 @@ L'œuvre n'est ni confession, ni révélation ; elle n'est qu'une forme obéissa
 108  
 Mallarmé met en scène la lecture &mdash;&mdash; comme étaient mise en scène les lectures de ce fameux théâtre du sens auquel les critiques ont donné abusivement le nom de « Livre », lectures qui obéissent au modèle herméneutique symboliste, une fonction de monstration.
 
-
-
